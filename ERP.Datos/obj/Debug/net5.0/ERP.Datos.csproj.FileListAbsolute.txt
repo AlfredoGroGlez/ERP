@@ -1,0 +1,15 @@
+C:\Users\Alfredo Guerrero\source\repos\ERP.Datos\bin\Debug\net5.0\ERP.Datos.deps.json
+C:\Users\Alfredo Guerrero\source\repos\ERP.Datos\bin\Debug\net5.0\ERP.Datos.runtimeconfig.json
+C:\Users\Alfredo Guerrero\source\repos\ERP.Datos\bin\Debug\net5.0\ERP.Datos.runtimeconfig.dev.json
+C:\Users\Alfredo Guerrero\source\repos\ERP.Datos\bin\Debug\net5.0\ERP.Datos.dll
+C:\Users\Alfredo Guerrero\source\repos\ERP.Datos\bin\Debug\net5.0\ref\ERP.Datos.dll
+C:\Users\Alfredo Guerrero\source\repos\ERP.Datos\bin\Debug\net5.0\ERP.Datos.pdb
+C:\Users\Alfredo Guerrero\source\repos\ERP.Datos\obj\Debug\net5.0\ERP.Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alfredo Guerrero\source\repos\ERP.Datos\obj\Debug\net5.0\ERP.Datos.AssemblyInfoInputs.cache
+C:\Users\Alfredo Guerrero\source\repos\ERP.Datos\obj\Debug\net5.0\ERP.Datos.AssemblyInfo.cs
+C:\Users\Alfredo Guerrero\source\repos\ERP.Datos\obj\Debug\net5.0\ERP.Datos.csproj.CoreCompileInputs.cache
+C:\Users\Alfredo Guerrero\source\repos\ERP.Datos\obj\Debug\net5.0\ERP.Datos.dll
+C:\Users\Alfredo Guerrero\source\repos\ERP.Datos\obj\Debug\net5.0\ref\ERP.Datos.dll
+C:\Users\Alfredo Guerrero\source\repos\ERP.Datos\obj\Debug\net5.0\ERP.Datos.pdb
+C:\Users\Alfredo Guerrero\source\repos\ERP.Datos\obj\Debug\net5.0\ERP.Datos.genruntimeconfig.cache
+C:\Users\Alfredo Guerrero\source\repos\ERP.Datos\obj\Debug\net5.0\ERP.Datos.csproj.AssemblyReference.cache

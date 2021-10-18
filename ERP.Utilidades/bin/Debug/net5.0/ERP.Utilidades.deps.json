@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ERP.Utilidades/1.0.0": {
+        "dependencies": {
+          "ERP.Entidades": "1.0.0"
+        },
+        "runtime": {
+          "ERP.Utilidades.dll": {}
+        }
+      },
+      "ERP.Entidades/1.0.0": {
+        "runtime": {
+          "ERP.Entidades.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ERP.Utilidades/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ERP.Entidades/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

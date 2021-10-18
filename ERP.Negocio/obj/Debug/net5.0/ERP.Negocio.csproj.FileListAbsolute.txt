@@ -1,0 +1,38 @@
+C:\Users\Alfredo Guerrero\source\repos\ERP.Negocio\bin\Debug\net5.0\ERP.Negocio.deps.json
+C:\Users\Alfredo Guerrero\source\repos\ERP.Negocio\bin\Debug\net5.0\ERP.Negocio.dll
+C:\Users\Alfredo Guerrero\source\repos\ERP.Negocio\bin\Debug\net5.0\ref\ERP.Negocio.dll
+C:\Users\Alfredo Guerrero\source\repos\ERP.Negocio\bin\Debug\net5.0\ERP.Negocio.pdb
+C:\Users\Alfredo Guerrero\source\repos\ERP.Negocio\obj\Debug\net5.0\ERP.Negocio.csproj.AssemblyReference.cache
+C:\Users\Alfredo Guerrero\source\repos\ERP.Negocio\obj\Debug\net5.0\ERP.Negocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alfredo Guerrero\source\repos\ERP.Negocio\obj\Debug\net5.0\ERP.Negocio.AssemblyInfoInputs.cache
+C:\Users\Alfredo Guerrero\source\repos\ERP.Negocio\obj\Debug\net5.0\ERP.Negocio.AssemblyInfo.cs
+C:\Users\Alfredo Guerrero\source\repos\ERP.Negocio\obj\Debug\net5.0\ERP.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Alfredo Guerrero\source\repos\ERP.Negocio\obj\Debug\net5.0\ERP.Negocio.dll
+C:\Users\Alfredo Guerrero\source\repos\ERP.Negocio\obj\Debug\net5.0\ref\ERP.Negocio.dll
+C:\Users\Alfredo Guerrero\source\repos\ERP.Negocio\obj\Debug\net5.0\ERP.Negocio.pdb
+C:\Users\Alfredo Guerrero\source\repos\ERP.Negocio\bin\Debug\net5.0\ERP.AccesoDatos.dll
+C:\Users\Alfredo Guerrero\source\repos\ERP.Negocio\bin\Debug\net5.0\ERP.Utilidades.dll
+C:\Users\Alfredo Guerrero\source\repos\ERP.Negocio\bin\Debug\net5.0\ERP.AccesoDatos.pdb
+C:\Users\Alfredo Guerrero\source\repos\ERP.Negocio\bin\Debug\net5.0\ERP.Utilidades.pdb
+C:\Users\Alfredo Guerrero\source\repos\ERP.Negocio\obj\Debug\net5.0\ERP.Negocio.csproj.CopyComplete
+C:\Users\Alfredo Guerrero\source\repos\ERP.Negocio\bin\Debug\net5.0\ERP.Entidades.dll
+C:\Users\Alfredo Guerrero\source\repos\ERP.Negocio\bin\Debug\net5.0\ERP.Entidades.pdb
+G:\DEV\ERP\ERP.Negocio\bin\Debug\net5.0\ERP.Negocio.deps.json
+G:\DEV\ERP\ERP.Negocio\bin\Debug\net5.0\ERP.Negocio.dll
+G:\DEV\ERP\ERP.Negocio\bin\Debug\net5.0\ref\ERP.Negocio.dll
+G:\DEV\ERP\ERP.Negocio\bin\Debug\net5.0\ERP.Negocio.pdb
+G:\DEV\ERP\ERP.Negocio\bin\Debug\net5.0\ERP.AccesoDatos.dll
+G:\DEV\ERP\ERP.Negocio\bin\Debug\net5.0\ERP.Entidades.dll
+G:\DEV\ERP\ERP.Negocio\bin\Debug\net5.0\ERP.Utilidades.dll
+G:\DEV\ERP\ERP.Negocio\bin\Debug\net5.0\ERP.AccesoDatos.pdb
+G:\DEV\ERP\ERP.Negocio\bin\Debug\net5.0\ERP.Entidades.pdb
+G:\DEV\ERP\ERP.Negocio\bin\Debug\net5.0\ERP.Utilidades.pdb
+G:\DEV\ERP\ERP.Negocio\obj\Debug\net5.0\ERP.Negocio.csproj.AssemblyReference.cache
+G:\DEV\ERP\ERP.Negocio\obj\Debug\net5.0\ERP.Negocio.GeneratedMSBuildEditorConfig.editorconfig
+G:\DEV\ERP\ERP.Negocio\obj\Debug\net5.0\ERP.Negocio.AssemblyInfoInputs.cache
+G:\DEV\ERP\ERP.Negocio\obj\Debug\net5.0\ERP.Negocio.AssemblyInfo.cs
+G:\DEV\ERP\ERP.Negocio\obj\Debug\net5.0\ERP.Negocio.csproj.CoreCompileInputs.cache
+G:\DEV\ERP\ERP.Negocio\obj\Debug\net5.0\ERP.Negocio.csproj.CopyComplete
+G:\DEV\ERP\ERP.Negocio\obj\Debug\net5.0\ERP.Negocio.dll
+G:\DEV\ERP\ERP.Negocio\obj\Debug\net5.0\ref\ERP.Negocio.dll
+G:\DEV\ERP\ERP.Negocio\obj\Debug\net5.0\ERP.Negocio.pdb

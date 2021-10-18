@@ -1,0 +1,36 @@
+C:\Users\Alfredo Guerrero\source\repos\ERP.AccesoDatos\bin\Debug\net5.0\ERP.AccesoDatos.deps.json
+C:\Users\Alfredo Guerrero\source\repos\ERP.AccesoDatos\bin\Debug\net5.0\ERP.AccesoDatos.runtimeconfig.json
+C:\Users\Alfredo Guerrero\source\repos\ERP.AccesoDatos\bin\Debug\net5.0\ERP.AccesoDatos.runtimeconfig.dev.json
+C:\Users\Alfredo Guerrero\source\repos\ERP.AccesoDatos\bin\Debug\net5.0\ERP.AccesoDatos.dll
+C:\Users\Alfredo Guerrero\source\repos\ERP.AccesoDatos\bin\Debug\net5.0\ref\ERP.AccesoDatos.dll
+C:\Users\Alfredo Guerrero\source\repos\ERP.AccesoDatos\bin\Debug\net5.0\ERP.AccesoDatos.pdb
+C:\Users\Alfredo Guerrero\source\repos\ERP.AccesoDatos\obj\Debug\net5.0\ERP.AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\Alfredo Guerrero\source\repos\ERP.AccesoDatos\obj\Debug\net5.0\ERP.AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alfredo Guerrero\source\repos\ERP.AccesoDatos\obj\Debug\net5.0\ERP.AccesoDatos.AssemblyInfoInputs.cache
+C:\Users\Alfredo Guerrero\source\repos\ERP.AccesoDatos\obj\Debug\net5.0\ERP.AccesoDatos.AssemblyInfo.cs
+C:\Users\Alfredo Guerrero\source\repos\ERP.AccesoDatos\obj\Debug\net5.0\ERP.AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Alfredo Guerrero\source\repos\ERP.AccesoDatos\obj\Debug\net5.0\ERP.AccesoDatos.dll
+C:\Users\Alfredo Guerrero\source\repos\ERP.AccesoDatos\obj\Debug\net5.0\ref\ERP.AccesoDatos.dll
+C:\Users\Alfredo Guerrero\source\repos\ERP.AccesoDatos\obj\Debug\net5.0\ERP.AccesoDatos.pdb
+C:\Users\Alfredo Guerrero\source\repos\ERP.AccesoDatos\obj\Debug\net5.0\ERP.AccesoDatos.genruntimeconfig.cache
+C:\Users\Alfredo Guerrero\source\repos\ERP.AccesoDatos\bin\Debug\net5.0\ERP.Entidades.dll
+C:\Users\Alfredo Guerrero\source\repos\ERP.AccesoDatos\bin\Debug\net5.0\ERP.Entidades.pdb
+C:\Users\Alfredo Guerrero\source\repos\ERP.AccesoDatos\obj\Debug\net5.0\ERP.AccesoDatos.csproj.CopyComplete
+G:\DEV\ERP\ERP.AccesoDatos\bin\Debug\net5.0\ERP.AccesoDatos.deps.json
+G:\DEV\ERP\ERP.AccesoDatos\bin\Debug\net5.0\ERP.AccesoDatos.runtimeconfig.json
+G:\DEV\ERP\ERP.AccesoDatos\bin\Debug\net5.0\ERP.AccesoDatos.runtimeconfig.dev.json
+G:\DEV\ERP\ERP.AccesoDatos\bin\Debug\net5.0\ERP.AccesoDatos.dll
+G:\DEV\ERP\ERP.AccesoDatos\bin\Debug\net5.0\ref\ERP.AccesoDatos.dll
+G:\DEV\ERP\ERP.AccesoDatos\bin\Debug\net5.0\ERP.AccesoDatos.pdb
+G:\DEV\ERP\ERP.AccesoDatos\bin\Debug\net5.0\ERP.Entidades.dll
+G:\DEV\ERP\ERP.AccesoDatos\bin\Debug\net5.0\ERP.Entidades.pdb
+G:\DEV\ERP\ERP.AccesoDatos\obj\Debug\net5.0\ERP.AccesoDatos.csproj.AssemblyReference.cache
+G:\DEV\ERP\ERP.AccesoDatos\obj\Debug\net5.0\ERP.AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+G:\DEV\ERP\ERP.AccesoDatos\obj\Debug\net5.0\ERP.AccesoDatos.AssemblyInfoInputs.cache
+G:\DEV\ERP\ERP.AccesoDatos\obj\Debug\net5.0\ERP.AccesoDatos.AssemblyInfo.cs
+G:\DEV\ERP\ERP.AccesoDatos\obj\Debug\net5.0\ERP.AccesoDatos.csproj.CoreCompileInputs.cache
+G:\DEV\ERP\ERP.AccesoDatos\obj\Debug\net5.0\ERP.AccesoDatos.csproj.CopyComplete
+G:\DEV\ERP\ERP.AccesoDatos\obj\Debug\net5.0\ERP.AccesoDatos.dll
+G:\DEV\ERP\ERP.AccesoDatos\obj\Debug\net5.0\ref\ERP.AccesoDatos.dll
+G:\DEV\ERP\ERP.AccesoDatos\obj\Debug\net5.0\ERP.AccesoDatos.pdb
+G:\DEV\ERP\ERP.AccesoDatos\obj\Debug\net5.0\ERP.AccesoDatos.genruntimeconfig.cache

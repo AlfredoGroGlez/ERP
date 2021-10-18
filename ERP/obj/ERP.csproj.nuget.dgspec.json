@@ -1,0 +1,327 @@
+{
+  "format": 1,
+  "restore": {
+    "G:\\DEV\\ERP\\ERP\\ERP.csproj": {}
+  },
+  "projects": {
+    "G:\\DEV\\ERP\\ERP.AccesoDatos\\ERP.AccesoDatos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\DEV\\ERP\\ERP.AccesoDatos\\ERP.AccesoDatos.csproj",
+        "projectName": "ERP.AccesoDatos",
+        "projectPath": "G:\\DEV\\ERP\\ERP.AccesoDatos\\ERP.AccesoDatos.csproj",
+        "packagesPath": "C:\\Users\\Alfredo Guerrero\\.nuget\\packages\\",
+        "outputPath": "G:\\DEV\\ERP\\ERP.AccesoDatos\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Alfredo Guerrero\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "G:\\DEV\\ERP\\ERP.Entidades\\ERP.Entidades.csproj": {
+                "projectPath": "G:\\DEV\\ERP\\ERP.Entidades\\ERP.Entidades.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\DEV\\ERP\\ERP.Entidades\\ERP.Entidades.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\DEV\\ERP\\ERP.Entidades\\ERP.Entidades.csproj",
+        "projectName": "ERP.Entidades",
+        "projectPath": "G:\\DEV\\ERP\\ERP.Entidades\\ERP.Entidades.csproj",
+        "packagesPath": "C:\\Users\\Alfredo Guerrero\\.nuget\\packages\\",
+        "outputPath": "G:\\DEV\\ERP\\ERP.Entidades\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Alfredo Guerrero\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\DEV\\ERP\\ERP.Negocio\\ERP.Negocio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\DEV\\ERP\\ERP.Negocio\\ERP.Negocio.csproj",
+        "projectName": "ERP.Negocio",
+        "projectPath": "G:\\DEV\\ERP\\ERP.Negocio\\ERP.Negocio.csproj",
+        "packagesPath": "C:\\Users\\Alfredo Guerrero\\.nuget\\packages\\",
+        "outputPath": "G:\\DEV\\ERP\\ERP.Negocio\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Alfredo Guerrero\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "G:\\DEV\\ERP\\ERP.AccesoDatos\\ERP.AccesoDatos.csproj": {
+                "projectPath": "G:\\DEV\\ERP\\ERP.AccesoDatos\\ERP.AccesoDatos.csproj"
+              },
+              "G:\\DEV\\ERP\\ERP.Entidades\\ERP.Entidades.csproj": {
+                "projectPath": "G:\\DEV\\ERP\\ERP.Entidades\\ERP.Entidades.csproj"
+              },
+              "G:\\DEV\\ERP\\ERP.Utilidades\\ERP.Utilidades.csproj": {
+                "projectPath": "G:\\DEV\\ERP\\ERP.Utilidades\\ERP.Utilidades.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\DEV\\ERP\\ERP.Utilidades\\ERP.Utilidades.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\DEV\\ERP\\ERP.Utilidades\\ERP.Utilidades.csproj",
+        "projectName": "ERP.Utilidades",
+        "projectPath": "G:\\DEV\\ERP\\ERP.Utilidades\\ERP.Utilidades.csproj",
+        "packagesPath": "C:\\Users\\Alfredo Guerrero\\.nuget\\packages\\",
+        "outputPath": "G:\\DEV\\ERP\\ERP.Utilidades\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Alfredo Guerrero\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "G:\\DEV\\ERP\\ERP.Entidades\\ERP.Entidades.csproj": {
+                "projectPath": "G:\\DEV\\ERP\\ERP.Entidades\\ERP.Entidades.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\DEV\\ERP\\ERP\\ERP.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\DEV\\ERP\\ERP\\ERP.csproj",
+        "projectName": "ERP",
+        "projectPath": "G:\\DEV\\ERP\\ERP\\ERP.csproj",
+        "packagesPath": "C:\\Users\\Alfredo Guerrero\\.nuget\\packages\\",
+        "outputPath": "G:\\DEV\\ERP\\ERP\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Alfredo Guerrero\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "G:\\DEV\\ERP\\ERP.AccesoDatos\\ERP.AccesoDatos.csproj": {
+                "projectPath": "G:\\DEV\\ERP\\ERP.AccesoDatos\\ERP.AccesoDatos.csproj"
+              },
+              "G:\\DEV\\ERP\\ERP.Entidades\\ERP.Entidades.csproj": {
+                "projectPath": "G:\\DEV\\ERP\\ERP.Entidades\\ERP.Entidades.csproj"
+              },
+              "G:\\DEV\\ERP\\ERP.Negocio\\ERP.Negocio.csproj": {
+                "projectPath": "G:\\DEV\\ERP\\ERP.Negocio\\ERP.Negocio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
+              "target": "Package",
+              "version": "[5.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

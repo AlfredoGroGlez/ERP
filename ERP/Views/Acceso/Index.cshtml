@@ -1,0 +1,46 @@
+﻿@{
+    Layout = "~/Views/Shared/_LayoutLogin.cshtml";
+}
+
+<div class="login-box">
+    <div class="card card-outline card-primary">
+        <div class="card-header text-center">
+            <h1 class="h1">Iniciar Sesión</h1>
+        </div>
+        <div class="card-body">
+            <div class="input-group mb-3">
+                <input type="email" id="txtUsuario" class="form-control" placeholder="Usuario">
+                <div class="input-group-append">
+                    <div class="input-group-text">
+                        <span class="fas fa-user-alt"></span>
+                    </div>
+                </div>
+            </div>
+            <div class="input-group mb-3">
+                <input type="password" id="txtContrasena" class="form-control" placeholder="Contraseña">
+                <div class="input-group-append">
+                    <div class="input-group-text">
+                        <span class="fas fa-lock"></span>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-2"></div>
+                <div class="col-8">
+                    <button type="button" id="btnIniciar" class="btn btn-success btn-block">Iniciar Sesion</button>
+                </div>
+                <div class="col-2"></div>
+            </div>
+            <br />
+
+            <p class="mb-1">
+                <a asp-controller="Acceso"
+                   asp-action="Contrasena">
+                    Olvidé mi contraseña
+                </a>
+            </p>
+        </div>
+        <!-- /.card-body -->
+    </div>
+    <!-- /.card -->
+</div>

@@ -1,0 +1,90 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "ERP.Entidades/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/ERP.Entidades.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ERP.Entidades.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ERP.Entidades/1.0.0": {
+      "type": "project",
+      "path": "../ERP.Entidades/ERP.Entidades.csproj",
+      "msbuildProject": "../ERP.Entidades/ERP.Entidades.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "ERP.Entidades >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Alfredo Guerrero\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "G:\\DEV\\ERP\\ERP.Utilidades\\ERP.Utilidades.csproj",
+      "projectName": "ERP.Utilidades",
+      "projectPath": "G:\\DEV\\ERP\\ERP.Utilidades\\ERP.Utilidades.csproj",
+      "packagesPath": "C:\\Users\\Alfredo Guerrero\\.nuget\\packages\\",
+      "outputPath": "G:\\DEV\\ERP\\ERP.Utilidades\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Alfredo Guerrero\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "G:\\DEV\\ERP\\ERP.Entidades\\ERP.Entidades.csproj": {
+              "projectPath": "G:\\DEV\\ERP\\ERP.Entidades\\ERP.Entidades.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

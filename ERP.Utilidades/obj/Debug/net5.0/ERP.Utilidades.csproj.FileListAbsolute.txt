@@ -1,0 +1,30 @@
+C:\Users\Alfredo Guerrero\source\repos\ERP.Utilidades\bin\Debug\net5.0\ERP.Utilidades.deps.json
+C:\Users\Alfredo Guerrero\source\repos\ERP.Utilidades\bin\Debug\net5.0\ERP.Utilidades.dll
+C:\Users\Alfredo Guerrero\source\repos\ERP.Utilidades\bin\Debug\net5.0\ref\ERP.Utilidades.dll
+C:\Users\Alfredo Guerrero\source\repos\ERP.Utilidades\bin\Debug\net5.0\ERP.Utilidades.pdb
+C:\Users\Alfredo Guerrero\source\repos\ERP.Utilidades\obj\Debug\net5.0\ERP.Utilidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alfredo Guerrero\source\repos\ERP.Utilidades\obj\Debug\net5.0\ERP.Utilidades.AssemblyInfoInputs.cache
+C:\Users\Alfredo Guerrero\source\repos\ERP.Utilidades\obj\Debug\net5.0\ERP.Utilidades.AssemblyInfo.cs
+C:\Users\Alfredo Guerrero\source\repos\ERP.Utilidades\obj\Debug\net5.0\ERP.Utilidades.csproj.CoreCompileInputs.cache
+C:\Users\Alfredo Guerrero\source\repos\ERP.Utilidades\obj\Debug\net5.0\ERP.Utilidades.dll
+C:\Users\Alfredo Guerrero\source\repos\ERP.Utilidades\obj\Debug\net5.0\ref\ERP.Utilidades.dll
+C:\Users\Alfredo Guerrero\source\repos\ERP.Utilidades\obj\Debug\net5.0\ERP.Utilidades.pdb
+C:\Users\Alfredo Guerrero\source\repos\ERP.Utilidades\bin\Debug\net5.0\ERP.Entidades.dll
+C:\Users\Alfredo Guerrero\source\repos\ERP.Utilidades\bin\Debug\net5.0\ERP.Entidades.pdb
+C:\Users\Alfredo Guerrero\source\repos\ERP.Utilidades\obj\Debug\net5.0\ERP.Utilidades.csproj.AssemblyReference.cache
+C:\Users\Alfredo Guerrero\source\repos\ERP.Utilidades\obj\Debug\net5.0\ERP.Utilidades.csproj.CopyComplete
+G:\DEV\ERP\ERP.Utilidades\bin\Debug\net5.0\ERP.Utilidades.deps.json
+G:\DEV\ERP\ERP.Utilidades\bin\Debug\net5.0\ERP.Utilidades.dll
+G:\DEV\ERP\ERP.Utilidades\bin\Debug\net5.0\ref\ERP.Utilidades.dll
+G:\DEV\ERP\ERP.Utilidades\bin\Debug\net5.0\ERP.Utilidades.pdb
+G:\DEV\ERP\ERP.Utilidades\bin\Debug\net5.0\ERP.Entidades.dll
+G:\DEV\ERP\ERP.Utilidades\bin\Debug\net5.0\ERP.Entidades.pdb
+G:\DEV\ERP\ERP.Utilidades\obj\Debug\net5.0\ERP.Utilidades.csproj.AssemblyReference.cache
+G:\DEV\ERP\ERP.Utilidades\obj\Debug\net5.0\ERP.Utilidades.GeneratedMSBuildEditorConfig.editorconfig
+G:\DEV\ERP\ERP.Utilidades\obj\Debug\net5.0\ERP.Utilidades.AssemblyInfoInputs.cache
+G:\DEV\ERP\ERP.Utilidades\obj\Debug\net5.0\ERP.Utilidades.AssemblyInfo.cs
+G:\DEV\ERP\ERP.Utilidades\obj\Debug\net5.0\ERP.Utilidades.csproj.CoreCompileInputs.cache
+G:\DEV\ERP\ERP.Utilidades\obj\Debug\net5.0\ERP.Utilidades.csproj.CopyComplete
+G:\DEV\ERP\ERP.Utilidades\obj\Debug\net5.0\ERP.Utilidades.dll
+G:\DEV\ERP\ERP.Utilidades\obj\Debug\net5.0\ref\ERP.Utilidades.dll
+G:\DEV\ERP\ERP.Utilidades\obj\Debug\net5.0\ERP.Utilidades.pdb

@@ -1,0 +1,24 @@
+C:\Users\Alfredo Guerrero\source\repos\ERP.Entidades\bin\Debug\net5.0\ERP.Entidades.deps.json
+C:\Users\Alfredo Guerrero\source\repos\ERP.Entidades\bin\Debug\net5.0\ERP.Entidades.dll
+C:\Users\Alfredo Guerrero\source\repos\ERP.Entidades\bin\Debug\net5.0\ref\ERP.Entidades.dll
+C:\Users\Alfredo Guerrero\source\repos\ERP.Entidades\bin\Debug\net5.0\ERP.Entidades.pdb
+C:\Users\Alfredo Guerrero\source\repos\ERP.Entidades\obj\Debug\net5.0\ERP.Entidades.csproj.AssemblyReference.cache
+C:\Users\Alfredo Guerrero\source\repos\ERP.Entidades\obj\Debug\net5.0\ERP.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alfredo Guerrero\source\repos\ERP.Entidades\obj\Debug\net5.0\ERP.Entidades.AssemblyInfoInputs.cache
+C:\Users\Alfredo Guerrero\source\repos\ERP.Entidades\obj\Debug\net5.0\ERP.Entidades.AssemblyInfo.cs
+C:\Users\Alfredo Guerrero\source\repos\ERP.Entidades\obj\Debug\net5.0\ERP.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Alfredo Guerrero\source\repos\ERP.Entidades\obj\Debug\net5.0\ERP.Entidades.dll
+C:\Users\Alfredo Guerrero\source\repos\ERP.Entidades\obj\Debug\net5.0\ref\ERP.Entidades.dll
+C:\Users\Alfredo Guerrero\source\repos\ERP.Entidades\obj\Debug\net5.0\ERP.Entidades.pdb
+G:\DEV\ERP\ERP.Entidades\bin\Debug\net5.0\ERP.Entidades.deps.json
+G:\DEV\ERP\ERP.Entidades\bin\Debug\net5.0\ERP.Entidades.dll
+G:\DEV\ERP\ERP.Entidades\bin\Debug\net5.0\ref\ERP.Entidades.dll
+G:\DEV\ERP\ERP.Entidades\bin\Debug\net5.0\ERP.Entidades.pdb
+G:\DEV\ERP\ERP.Entidades\obj\Debug\net5.0\ERP.Entidades.csproj.AssemblyReference.cache
+G:\DEV\ERP\ERP.Entidades\obj\Debug\net5.0\ERP.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+G:\DEV\ERP\ERP.Entidades\obj\Debug\net5.0\ERP.Entidades.AssemblyInfoInputs.cache
+G:\DEV\ERP\ERP.Entidades\obj\Debug\net5.0\ERP.Entidades.AssemblyInfo.cs
+G:\DEV\ERP\ERP.Entidades\obj\Debug\net5.0\ERP.Entidades.csproj.CoreCompileInputs.cache
+G:\DEV\ERP\ERP.Entidades\obj\Debug\net5.0\ERP.Entidades.dll
+G:\DEV\ERP\ERP.Entidades\obj\Debug\net5.0\ref\ERP.Entidades.dll
+G:\DEV\ERP\ERP.Entidades\obj\Debug\net5.0\ERP.Entidades.pdb

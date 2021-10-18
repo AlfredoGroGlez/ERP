@@ -1,0 +1,22 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Iniciar Sesión</title>
+
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700&display=fallback">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.1/css/all.css">
+    <link href="~/css/adminlte.min.css" rel="stylesheet" />
+    <link href="~/css/plugins/sweetalert2.min.css" rel="stylesheet" />
+</head>
+<body class="hold-transition login-page">
+    @RenderBody()
+    <input type="hidden" id="hdfOculto" value="@Url.Content("~")" />
+    <script src="~/js/JQuery-3.6.0.js"></script>
+    <script src="~/js/plugins/sweetalert2.min.js"></script>
+    <script src="~/js/Generico.js"></script>
+    <script src="~/js/Genericos/Alertas.js"></script>
+    <script src="~/js/Login/Login.js"></script>
+</body>
+</html>
