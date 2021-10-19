@@ -790,3 +790,4 @@ G:\DEV\ERP\ERP\obj\Debug\net5.0\ERP.dll
 G:\DEV\ERP\ERP\obj\Debug\net5.0\ref\ERP.dll
 G:\DEV\ERP\ERP\obj\Debug\net5.0\ERP.pdb
 G:\DEV\ERP\ERP\obj\Debug\net5.0\ERP.genruntimeconfig.cache
+G:\DEV\ERP\ERP\obj\Debug\net5.0\Razor\Views\Clientes\Index.cshtml.g.cs
